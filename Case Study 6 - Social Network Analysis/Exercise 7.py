@@ -1,0 +1,6 @@
+print("Village 1 observed proportion of same sex:", homophily(G1, sex1, pid1))
+print("Village 2 observed proportion of same sex:", homophily(G2, sex2, pid2))
+print("Village 1 observed proportion of same caste:", homophily(G1, caste1, pid1))
+print("Village 2 observed proportion of same caste:", homophily(G2, caste2, pid2))
+print("Village 1 observed proportion of same religion :", homophily(G1, religion1, pid1))
+print("Village 2 observed proportion of same religion :", homophily(G2, religion2, pid2))

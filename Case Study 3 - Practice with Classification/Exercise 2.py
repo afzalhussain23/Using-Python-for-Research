@@ -1,0 +1,1 @@
+numeric_data = data.drop('color', 1)
